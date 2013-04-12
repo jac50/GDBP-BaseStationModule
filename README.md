@@ -1,4 +1,4 @@
-GDBP-CommsModule
+GDBP-Base Station Module
 ================
+Insert Readme info here
 
-PIC Comms Module Code for the Group Design and Business Project
